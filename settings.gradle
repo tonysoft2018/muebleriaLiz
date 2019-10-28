@@ -1,0 +1,2 @@
+include ':app', ':Rfid.AsciiProtocol-2.0.1-release'
+rootProject.name='MuebleriaLiz'

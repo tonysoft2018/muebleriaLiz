@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MuebleriaLiz</string>
+
+    <string name="lbl_Usuario">Captura el Usuario</string>
+    <string name="lbl_Contrasenia">Captura la Contraseña</string>
+
+    <string name="tit_Ingresar">Ingresar</string>
+    <string name="tit_Cancelar">Cancelar</string>
+    <string name="tit_Configurar">Configurar</string>
+
+    <string name="tit_Version">V1.0.24102019</string>
+
+    <string name="tit_Regresar">Regresar</string>
+</resources>
